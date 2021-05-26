@@ -1,6 +1,6 @@
 <h2>Server side CRUD application</h2>
 
-<h3>VS Code</h3> <br>
+<h3>VS Code</h3>
 * npm i express <br>
 * node app.js <br>
 
