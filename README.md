@@ -3,9 +3,9 @@ nodeJS deploying with heroku
 
 Server side CRUD application
 
-VS Code
-npm i express
-node app.js
+VS Code <br>
+npm i express <br>
+node app.js <br>
 
 Heroku
 * git init
