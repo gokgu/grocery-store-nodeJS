@@ -1,5 +1,3 @@
-# grocery-store-nodeJS
-
 <h2>Server side CRUD application</h2>
 
 <h3>VS Code</h3> <br>
